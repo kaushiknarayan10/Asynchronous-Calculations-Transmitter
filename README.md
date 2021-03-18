@@ -1,4 +1,4 @@
-# Simple-Web-Calculator-Transmitter
+# Asynchronous-Calculations-Transmitter
 A simple node.js web application to calculate a math expression and transmit the solution asynchronously to multiple Users in the same session.
 
 ## Dependencies:
