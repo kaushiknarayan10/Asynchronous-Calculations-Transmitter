@@ -12,4 +12,4 @@ A simple node.js web application to calculate a math expression and transmit the
 ## Running the app:
 - Download the source code to your local machine and run the following commands:
 - `docker-compose up --build`
-- Open a web browser and go to [](http://localhost:3000)
+- Open a web browser and go to [http://localhost:3000](http://localhost:3000)
