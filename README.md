@@ -1,5 +1,5 @@
 # Asynchronous-Calculations-Transmitter
-A simple node.js web application to calculate a math expression and transmit the solution asynchronously to multiple Users in the same session.
+A simple node.js web application to calculate a math expression and transmit the solution asynchronously to multiple Users in the same session. This will be further expanded to include a Web Chat option for all Users to chat with each others.
 
 ## Dependencies:
 - [NodeJS](https://nodejs.org/en/)
