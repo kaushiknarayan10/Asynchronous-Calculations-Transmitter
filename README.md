@@ -10,6 +10,6 @@ A simple node.js web application to calculate a math expression and transmit the
 - [mathjs](https://mathjs.org/)
 
 ## Running the app:
-- Download the source code to your local machine and run the following commands:
-- `docker-compose up --build`
+- Download the source code to your local machine and run:
+- - `docker-compose up --build`
 - Open a web browser and go to [http://localhost:3000](http://localhost:3000)
